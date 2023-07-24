@@ -1,5 +1,5 @@
 # 2023-WEBSTANDARD-SITE
-<img src="https://webstoryboy.github.io/portfolio8-html/src/assets/img/readme.png" />
+<img src="https://github.com/dongjin6539/2023-WEBSTANDARD-SITE/blob/main/readme.png" />
 개인이 만든, 운동과 건강에 관한 웹사이트를 위한 HTML 문서입니다. 이 웹사이트는 운동 및 피트니스와 관련된 다양한 측면에 초점을 맞춘 다양한 섹션으로 구성되어 있습니다.
 
 **사이트**
